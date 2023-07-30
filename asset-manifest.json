@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SecurePass/static/css/main.f4506692.css",
-    "main.js": "/SecurePass/static/js/main.07815dce.js",
+    "main.js": "/SecurePass/static/js/main.69d35bc2.js",
     "static/js/787.7d36636d.chunk.js": "/SecurePass/static/js/787.7d36636d.chunk.js",
     "static/media/Montserrat-Italic.ttf": "/SecurePass/static/media/Montserrat-Italic.58b98b5c47cf787cd97a.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/SecurePass/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
@@ -15,11 +15,11 @@
     "static/media/background.jpg": "/SecurePass/static/media/background.2f3c8cdbb8121bfe0c00.jpg",
     "index.html": "/SecurePass/index.html",
     "main.f4506692.css.map": "/SecurePass/static/css/main.f4506692.css.map",
-    "main.07815dce.js.map": "/SecurePass/static/js/main.07815dce.js.map",
+    "main.69d35bc2.js.map": "/SecurePass/static/js/main.69d35bc2.js.map",
     "787.7d36636d.chunk.js.map": "/SecurePass/static/js/787.7d36636d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4506692.css",
-    "static/js/main.07815dce.js"
+    "static/js/main.69d35bc2.js"
   ]
 }
