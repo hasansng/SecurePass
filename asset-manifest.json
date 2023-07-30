@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SecurePass/static/css/main.f4506692.css",
+    "main.js": "/SecurePass/static/js/main.07815dce.js",
+    "static/js/787.7d36636d.chunk.js": "/SecurePass/static/js/787.7d36636d.chunk.js",
+    "static/media/Montserrat-Italic.ttf": "/SecurePass/static/media/Montserrat-Italic.58b98b5c47cf787cd97a.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/SecurePass/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/SecurePass/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
+    "static/media/Montserrat-Medium.ttf": "/SecurePass/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/SecurePass/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Light.ttf": "/SecurePass/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/SecurePass/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-Black.ttf": "/SecurePass/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/SecurePass/static/media/Montserrat-ExtraLight.ef3c777f702c89a0f300.ttf",
+    "static/media/background.jpg": "/SecurePass/static/media/background.2f3c8cdbb8121bfe0c00.jpg",
+    "index.html": "/SecurePass/index.html",
+    "main.f4506692.css.map": "/SecurePass/static/css/main.f4506692.css.map",
+    "main.07815dce.js.map": "/SecurePass/static/js/main.07815dce.js.map",
+    "787.7d36636d.chunk.js.map": "/SecurePass/static/js/787.7d36636d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4506692.css",
+    "static/js/main.07815dce.js"
+  ]
+}
