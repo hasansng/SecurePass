@@ -43,7 +43,7 @@ const App = () => {
     <div className={style.app}>
       <Toaster />
       <div className={style.container}>
-        <img src="/assets/img/logo.png" alt="LOGO | PASSWORD" width={270} />
+        <img src="assets/img/logo.png" alt="LOGO | PASSWORD" width={270} />
         <p className={style.title}>
           <strong>Secure</strong>Pass
         </p>

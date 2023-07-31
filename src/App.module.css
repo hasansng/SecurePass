@@ -102,3 +102,9 @@
 .btn:hover {
   cursor: pointer;
 }
+
+@media only screen and (max-width: 450px) {
+  .container {
+    width: 80vw;
+  }
+}
